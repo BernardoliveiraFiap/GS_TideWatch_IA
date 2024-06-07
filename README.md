@@ -1,4 +1,4 @@
-#gITHUB PAGE: https://bernardoliveirafiap.github.io/GS_TideWatch_IA/
+# GITHUB PAGE: https://bernardoliveirafiap.github.io/GS_TideWatch_IA/
 
 
 # GS_TideWatch_IA
