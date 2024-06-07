@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teachable Machine Image Model - p5.js and ml5.js</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Detecção e classificação TideWatch</h1>
+    <div class="upload-card">
+      <h2>Carregue a imagem para nosso modelo classificar</h2>
+      <input type="file" id="imageUpload" accept="image/*">
+      <button id="uploadButton">Classificar</button>
+    </div>
+    <div class="result-card" id="resultCard" style="display: none;">
+      <h2>Neste arquivo podemos ver:</h2>
+      <img id="uploadedImage" src="" alt="Uploaded Image">
+      <p id="resultLabel">Classification Result</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/p5@latest/lib/p5.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/p5@latest/lib/addons/p5.dom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ml5@latest/dist/ml5.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
