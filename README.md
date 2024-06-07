@@ -3,6 +3,15 @@ Detecção e Classificação de Espécies, é modelo que consegue distinguir ent
 corrosão dos corais 
 
 
+O que este modelo detecta?
+
+MAR
+PEIXE PALHAÇO
+PEIXE LEÃO
+LIXO NO MAR
+CORAL EM BOAS CONDIÇÕES
+CORAL MORTO
+
 
 
 ![image](https://github.com/BernardoliveiraFiap/GS_TideWatch_IA/assets/126569987/89b4c9e8-082d-4e74-950e-87cebf12180c)
