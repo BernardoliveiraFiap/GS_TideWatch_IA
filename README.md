@@ -3,13 +3,18 @@ Detecção e Classificação de Espécies, é modelo que consegue distinguir ent
 corrosão dos corais 
 
 
-O que este modelo detecta?
+# O que este modelo detecta?
 
 MAR
+
 PEIXE PALHAÇO
+
 PEIXE LEÃO
+
 LIXO NO MAR
+
 CORAL EM BOAS CONDIÇÕES
+
 CORAL MORTO
 
 
